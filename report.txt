@@ -1,0 +1,3 @@
+For this project the goal was to measure process level and system level metrics. We ran 6 executables that performed different tasks that effected the system. We measured the system level metrics of network bandwidth, memory, disk writes, disk space every five seconds to see how the executables effected these metrics. We also measured process level metrics such as percent CPU usage and percent memory usage of each executable process.
+
+Aaron Gdanski, Jason Marcello, Tyler Olexa
